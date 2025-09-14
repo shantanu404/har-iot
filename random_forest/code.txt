@@ -1,0 +1,18 @@
+0: Brushing Teeth
+1: Clapping
+2: Dribbling (Basketball)
+3: Drinking from Cup
+4: Eating Chips
+5: Eating Pasta
+6: Eating Sandwich
+7: Eating Soup
+8: Folding Clothes
+9: Jogging
+10: Kicking (Soccer Ball)
+11: Playing Catch w/ Tennis Ball
+12: Sitting
+13: Stairs
+14: Standing
+15: Typing
+16: Walking
+17: Writing
